@@ -1,0 +1,7 @@
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+slprj/
+*.slxc
+*.slx.r*
